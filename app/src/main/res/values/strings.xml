@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week3</string>
+    <string name="linear_layout">Linear layout</string>
+    <string name="grid_layout">Grid Layout</string>
+</resources>
